@@ -24,7 +24,7 @@ IntelliJ IDEA COMMUNITY EDITION
 6) Create a loop to repeat.After the loop ends, you can perform operations on the collection, such as searching for specific employees, displaying all employee details.
 
 ## PROGRAM:
-
+```
 java
 class Employee
 {
@@ -63,6 +63,7 @@ class EmployeeDetails
         e2.Sam();
     }
 }
+```
 
 
 
